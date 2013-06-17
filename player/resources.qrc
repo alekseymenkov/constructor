@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/lock.png</file>
+        <file>images/unlock.png</file>
+        <file>images/fitinview.png</file>
+        <file>images/icon.png</file>
+        <file>images/module_success.png</file>
+        <file>images/module_critical.png</file>
+        <file>images/module_warning.png</file>
+        <file>images/add.png</file>
+    </qresource>
+</RCC>
